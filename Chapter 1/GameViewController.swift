@@ -18,6 +18,10 @@ class GameViewController: UIViewController {
         let scnView = self.view as SCNView
         let scene = BoxScene()
         scnView.scene = scene
+        
+        scnView.backgroundColor = UIColor.whiteColor()
+        
+        scnView.allowsCameraControl = true
     }
     
     

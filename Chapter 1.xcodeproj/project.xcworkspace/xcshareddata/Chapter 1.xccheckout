@@ -12,22 +12,34 @@
 	<dict>
 		<key>97E523B22D35F49054739C6986A3EE973A8681B5</key>
 		<string>https://github.com/ChristopherBell/Swift3DBook</string>
+		<key>D427E15FDC5DFDBD51FB4FFC28E9F0C37DB5C60F</key>
+		<string>https://github.com/ChristopherBell/3DGraphicsSwift.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Chapter 1.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>97E523B22D35F49054739C6986A3EE973A8681B5</key>
+		<string>../../../Chapter%201</string>
+		<key>D427E15FDC5DFDBD51FB4FFC28E9F0C37DB5C60F</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ChristopherBell/Swift3DBook</string>
+	<string>https://github.com/ChristopherBell/3DGraphicsSwift.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>97E523B22D35F49054739C6986A3EE973A8681B5</string>
+	<string>D427E15FDC5DFDBD51FB4FFC28E9F0C37DB5C60F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D427E15FDC5DFDBD51FB4FFC28E9F0C37DB5C60F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>3DGraphicsSwift</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
